@@ -4,9 +4,9 @@
             <div class="form-v5-content">
                 <form class="form-detail" action="#" method="post">
     
-                    <h2>Register Account Form</h2>
+                    <h2>Register Account</h2>
                     <div class="form-row">
-                        <label for="full-name">Full Name</label>
+                        <label for="full-name">Full Name </label>
                         <input type="text" v-model="name"  id="full-name" class="input-text" placeholder="Your Name" required>
                         <i class="fas fa-user"></i>
                     </div>
